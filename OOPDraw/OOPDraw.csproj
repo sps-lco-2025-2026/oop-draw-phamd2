@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="line.cs" />
     <Compile Include="OOPDraw.cs">
       <SubType>Form</SubType>
     </Compile>
