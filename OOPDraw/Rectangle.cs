@@ -4,6 +4,8 @@ namespace OOPDraw
 {
     public class Rectangle
     {
+
+
         public Pen Pen { get; private set; }
         public int X1 { get; private set; }
         public int Y1 { get; private set; }
